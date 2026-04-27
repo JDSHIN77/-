@@ -1,0 +1,6 @@
+{
+  "name": "아파트 실거래가 지도 (AptMap)",
+  "description": "내 주변 아파트 매매 실거래가 정보 집계 및 가격 변동 추이 지도 서비스",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
